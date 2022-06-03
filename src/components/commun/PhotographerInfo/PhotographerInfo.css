@@ -32,3 +32,9 @@
   margin-top: 4px;
   margin-bottom: 6px;
 }
+.Tags {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  margin: auto;
+}
